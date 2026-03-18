@@ -65,23 +65,7 @@ Designing reliable systems with security principles in mind.
 ### Design
 
 ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma)
-![AdobeXD](https://img.shields.io/badge/AdobeXD-pink?logo=adobe)
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Sonia-ship-it&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonia-ship-it&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Sonia-ship-it&theme=tokyonight&hide_border=true"/>
-</p>
+![Adobe Illustrator](https://img.shields.io/badge/AdobeXD-pink?logo=adobe)
 
 ---
 
